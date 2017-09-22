@@ -1,0 +1,483 @@
+	kode_provinsi	nama_provinsi	kode_kabkota	nama_kabkota	tahun	persen_kelahiran
+4	11	Prov. Nanggroe Aceh Darussalam	1101	Kab. Simeulue	2009	47.23
+9	11	Prov. Nanggroe Aceh Darussalam	1102	Kab. Aceh Singkil	2009	47.03
+14	11	Prov. Nanggroe Aceh Darussalam	1103	Kab. Aceh Selatan	2009	70.0
+19	11	Prov. Nanggroe Aceh Darussalam	1104	Kab. Aceh Tenggara	2009	89.26
+24	11	Prov. Nanggroe Aceh Darussalam	1105	Kab. Aceh Timur	2009	66.21
+29	11	Prov. Nanggroe Aceh Darussalam	1106	Kab. Aceh Tengah	2009	85.32
+34	11	Prov. Nanggroe Aceh Darussalam	1107	Kab. Aceh Barat	2009	29.02
+39	11	Prov. Nanggroe Aceh Darussalam	1108	Kab. Aceh Besar	2009	68.98
+44	11	Prov. Nanggroe Aceh Darussalam	1109	Kab. Pidie	2009	69.57
+49	11	Prov. Nanggroe Aceh Darussalam	1110	Kab. Bireuen	2009	72.32
+54	11	Prov. Nanggroe Aceh Darussalam	1111	Kab. Aceh Utara	2009	84.25
+59	11	Prov. Nanggroe Aceh Darussalam	1112	Kab. Aceh Barat Daya	2009	60.39
+64	11	Prov. Nanggroe Aceh Darussalam	1113	Kab. Gayo Lues	2009	24.55
+69	11	Prov. Nanggroe Aceh Darussalam	1114	Kab. Aceh Tamiang	2009	94.12
+74	11	Prov. Nanggroe Aceh Darussalam	1115	Kab. Nagan Raya	2009	58.41
+79	11	Prov. Nanggroe Aceh Darussalam	1116	Kab. Aceh Jaya	2009	44.79
+84	11	Prov. Nanggroe Aceh Darussalam	1117	Kab. Bener Meriah	2009	87.75
+89	11	Prov. Nanggroe Aceh Darussalam	1118	Kab. Pidie Jaya	2009	95.42
+94	11	Prov. Nanggroe Aceh Darussalam	1171	Kota Banda Aceh	2009	100.0
+99	11	Prov. Nanggroe Aceh Darussalam	1172	Kota Sabang	2009	96.23
+104	11	Prov. Nanggroe Aceh Darussalam	1173	Kota Langsa	2009	96.19
+109	11	Prov. Nanggroe Aceh Darussalam	1174	Kota Lhokseumawe	2009	93.42
+114	11	Prov. Nanggroe Aceh Darussalam	1175	Kota Subulussalam	2009	71.16
+119	12	Prov. Sumatera Utara	1201	Kab. Nias	2009	29.83
+124	12	Prov. Sumatera Utara	1202	Kab. Mandailing Natal	2009	46.57
+129	12	Prov. Sumatera Utara	1203	Kab. Tapanuli Selatan	2009	62.52
+134	12	Prov. Sumatera Utara	1204	Kab. Tapanuli Tengah	2009	68.7
+139	12	Prov. Sumatera Utara	1205	Kab. Tapanuli Utara	2009	67.33
+144	12	Prov. Sumatera Utara	1206	Kab. Toba Samosir	2009	71.56
+149	12	Prov. Sumatera Utara	1207	Kab. Labuhan Batu	2009	63.88
+154	12	Prov. Sumatera Utara	1208	Kab. Asahan	2009	90.37
+159	12	Prov. Sumatera Utara	1209	Kab. Simalungun	2009	98.43
+164	12	Prov. Sumatera Utara	1210	Kab. Dairi	2009	57.72
+169	12	Prov. Sumatera Utara	1211	Kab. Karo	2009	92.81
+174	12	Prov. Sumatera Utara	1212	Kab. Deli Serdang	2009	89.2
+179	12	Prov. Sumatera Utara	1213	Kab. Langkat	2009	90.85
+184	12	Prov. Sumatera Utara	1214	Kab. Nias Selatan	2009	21.8
+189	12	Prov. Sumatera Utara	1215	Kab. Humbang Hasundutan	2009	59.47
+194	12	Prov. Sumatera Utara	1216	Kab. Pakpak Bharat	2009	47.61
+199	12	Prov. Sumatera Utara	1217	Kab. Samosir	2009	62.07
+204	12	Prov. Sumatera Utara	1218	Kab. Serdang Bedagai	2009	93.11
+209	12	Prov. Sumatera Utara	1219	Kab. Batu Bara	2009	86.63
+214	12	Prov. Sumatera Utara	1220	Kab. Padang Lawas Utara	2009	50.73
+219	12	Prov. Sumatera Utara	1221	Kab. Padang Lawas	2009	57.54
+224	12	Prov. Sumatera Utara	1271	Kota Sibolga	2009	91.83
+229	12	Prov. Sumatera Utara	1272	Kota Tanjung Balai	2009	93.82
+234	12	Prov. Sumatera Utara	1273	Kota Pematang Siantar	2009	95.54
+239	12	Prov. Sumatera Utara	1274	Kota Tebing Tinggi	2009	100.0
+244	12	Prov. Sumatera Utara	1275	Kota Medan	2009	94.45
+249	12	Prov. Sumatera Utara	1276	Kota Binjai	2009	100.0
+254	12	Prov. Sumatera Utara	1277	Kota Padangsidimpuan	2009	69.2
+259	13	Prov. Sumatera Barat	1301	Kab. Kepulauan Mentawai	2009	12.5
+264	13	Prov. Sumatera Barat	1302	Kab. Pesisir Selatan	2009	66.14
+269	13	Prov. Sumatera Barat	1303	Kab. Solok	2009	57.62
+274	13	Prov. Sumatera Barat	1304	Kab. Sijunjung	2009	63.0
+279	13	Prov. Sumatera Barat	1305	Kab. Tanah Datar	2009	68.03
+284	13	Prov. Sumatera Barat	1306	Kab. Padang Pariaman	2009	73.33
+289	13	Prov. Sumatera Barat	1307	Kab. Agam	2009	91.87
+294	13	Prov. Sumatera Barat	1308	Kab. Lima Puluh Kota	2009	79.9
+299	13	Prov. Sumatera Barat	1309	Kab. Pasaman	2009	58.91
+304	13	Prov. Sumatera Barat	1310	Kab. Solok Selatan	2009	68.7
+309	13	Prov. Sumatera Barat	1311	Kab. Dharmas Raya	2009	65.29
+314	13	Prov. Sumatera Barat	1312	Kab. Pasaman Barat	2009	68.89
+319	13	Prov. Sumatera Barat	1371	Kota Padang	2009	100.0
+324	13	Prov. Sumatera Barat	1372	Kota Solok	2009	100.0
+329	13	Prov. Sumatera Barat	1373	Kota Sawah Lunto	2009	74.67
+334	13	Prov. Sumatera Barat	1374	Kota Padang Panjang	2009	100.0
+339	13	Prov. Sumatera Barat	1375	Kota Bukittinggi	2009	92.29
+344	13	Prov. Sumatera Barat	1376	Kota Payakumbuh	2009	100.0
+349	13	Prov. Sumatera Barat	1377	Kota Pariaman	2009	100.0
+354	14	Prov. Riau	1401	Kab. Kuantan Singingi	2009	48.07
+359	14	Prov. Riau	1402	Kab. Indragiri Hulu	2009	45.88
+364	14	Prov. Riau	1403	Kab. Indragiri Hilir	2009	20.72
+369	14	Prov. Riau	1404	Kab. Pelalawan	2009	55.67
+374	14	Prov. Riau	1405	Kab. Siak	2009	63.4
+379	14	Prov. Riau	1406	Kab. Kampar	2009	78.15
+384	14	Prov. Riau	1407	Kab. Rokan Hulu	2009	43.39
+389	14	Prov. Riau	1408	Kab. Bengkalis	2009	65.46
+394	14	Prov. Riau	1409	Kab. Rokan Hilir	2009	60.12
+399	14	Prov. Riau	1471	Kota Pekanbaru	2009	78.62
+404	14	Prov. Riau	1473	Kota Dumai	2009	92.13
+409	15	Prov. Jambi	1501	Kab. Kerinci	2009	81.95
+414	15	Prov. Jambi	1502	Kab. Merangin	2009	8.31
+419	15	Prov. Jambi	1503	Kab. Sarolangun	2009	46.41
+424	15	Prov. Jambi	1504	Kab. Batang Hari	2009	38.89
+429	15	Prov. Jambi	1505	Kab. Muaro Jambi	2009	36.2
+434	15	Prov. Jambi	1506	Kab. Tanjung Jabung Timur	2009	47.11
+439	15	Prov. Jambi	1507	Kab. Tanjung Jabung Barat	2009	22.0
+444	15	Prov. Jambi	1508	Kab. Tebo	2009	35.08
+449	15	Prov. Jambi	1509	Kab. Bungo	2009	14.28
+454	15	Prov. Jambi	1571	Kota Jambi	2009	95.44
+459	16	Prov. Sumatera Selatan	1601	Kab. Ogan Komering Ulu	2009	62.41
+464	16	Prov. Sumatera Selatan	1602	Kab. Ogan Komering Ilir	2009	62.31
+469	16	Prov. Sumatera Selatan	1603	Kab. Muara Enim	2009	39.18
+474	16	Prov. Sumatera Selatan	1604	Kab. Lahat	2009	40.34
+479	16	Prov. Sumatera Selatan	1605	Kab. Musi Rawas	2009	49.23
+484	16	Prov. Sumatera Selatan	1606	Kab. Musi Banyuasin	2009	44.18
+489	16	Prov. Sumatera Selatan	1607	Kab. Banyu Asin	2009	61.08
+494	16	Prov. Sumatera Selatan	1608	Kab. Ogan Komering Ulu Selatan	2009	29.63
+499	16	Prov. Sumatera Selatan	1609	Kab. Ogan Komering Ulu Timur	2009	57.94
+504	16	Prov. Sumatera Selatan	1610	Kab. Ogan Ilir	2009	51.02
+509	16	Prov. Sumatera Selatan	1611	Kab. Empat Lawang	2009	4.17
+514	16	Prov. Sumatera Selatan	1671	Kota Palembang	2009	96.3
+519	16	Prov. Sumatera Selatan	1672	Kota Prabumulih	2009	86.99
+524	16	Prov. Sumatera Selatan	1673	Kota Pagar Alam	2009	74.48
+529	16	Prov. Sumatera Selatan	1674	Kota Lubuklinggau	2009	89.96
+534	17	Prov. Bengkulu	1701	Kab. Bengkulu Selatan	2009	57.69
+539	17	Prov. Bengkulu	1702	Kab. Rejang Lebong	2009	80.83
+544	17	Prov. Bengkulu	1703	Kab. Bengkulu Utara	2009	76.48
+549	17	Prov. Bengkulu	1704	Kab. Kaur	2009	61.29
+554	17	Prov. Bengkulu	1705	Kab. Seluma	2009	39.14
+559	17	Prov. Bengkulu	1706	Kab. Mukomuko	2009	62.8
+564	17	Prov. Bengkulu	1707	Kab. Lebong	2009	63.54
+569	17	Prov. Bengkulu	1708	Kab. Kepahiang	2009	83.12
+574	17	Prov. Bengkulu	1771	Kota Bengkulu	2009	89.31
+579	18	Prov. Lampung	1801	Kab. Lampung Barat	2009	34.99
+584	18	Prov. Lampung	1802	Kab. Tanggamus	2009	51.41
+589	18	Prov. Lampung	1803	Kab. Lampung Selatan	2009	52.1
+594	18	Prov. Lampung	1804	Kab. Lampung Timur	2009	67.16
+599	18	Prov. Lampung	1805	Kab. Lampung Tengah	2009	69.81
+604	18	Prov. Lampung	1806	Kab. Lampung Utara	2009	46.91
+609	18	Prov. Lampung	1807	Kab. Way Kanan	2009	21.79
+614	18	Prov. Lampung	1808	Kab. Tulangbawang	2009	22.52
+619	18	Prov. Lampung	1809	Kab. Pesawaran	2009	45.45
+624	18	Prov. Lampung	1871	Kota Bandar Lampung	2009	82.45
+629	18	Prov. Lampung	1872	Kota Metro	2009	66.32
+634	19	Prov. Kepulauan Bangka Belitung	1901	Kab. Bangka	2009	33.66
+639	19	Prov. Kepulauan Bangka Belitung	1902	Kab. Belitung	2009	71.86
+644	19	Prov. Kepulauan Bangka Belitung	1903	Kab. Bangka Barat	2009	0.0
+649	19	Prov. Kepulauan Bangka Belitung	1904	Kab. Bangka Tengah	2009	65.0
+654	19	Prov. Kepulauan Bangka Belitung	1905	Kab. Bangka Selatan	2009	52.85
+659	19	Prov. Kepulauan Bangka Belitung	1906	Kab. Belitung Timur	2009	80.52
+664	19	Prov. Kepulauan Bangka Belitung	1971	Kota Pangkal Pinang	2009	100.0
+669	21	Prov. Kepulauan Riau	2101	Kab. Karimun	2009	65.52
+674	21	Prov. Kepulauan Riau	2102	Kab. Bintan	2009	79.44
+679	21	Prov. Kepulauan Riau	2103	Kab. Natuna	2009	38.78
+684	21	Prov. Kepulauan Riau	2104	Kab. Lingga	2009	40.59
+689	21	Prov. Kepulauan Riau	2171	Kota Batam	2009	96.23
+694	21	Prov. Kepulauan Riau	2172	Kota Tanjung Pinang	2009	97.5
+699	31	Prov. DKI Jakarta	3101	Kab. Kepulauan Seribu	2009	94.47
+704	31	Prov. DKI Jakarta	3171	Kab. Kodya Jakarta Selatan	2009	100.0
+709	31	Prov. DKI Jakarta	3172	Kab. Kodya Jakarta Timur	2009	100.0
+714	31	Prov. DKI Jakarta	3173	Kab. Kodya Jakarta Pusat	2009	94.74
+719	31	Prov. DKI Jakarta	3174	Kab. Kodya Jakarta Barat	2009	86.37
+724	31	Prov. DKI Jakarta	3175	Kab. Kodya Jakarta Utara	2009	97.15
+729	32	Prov. Jawa Barat	3201	Kab. Bogor	2009	16.7
+734	32	Prov. Jawa Barat	3202	Kab. Sukabumi	2009	24.92
+739	32	Prov. Jawa Barat	3203	Kab. Cianjur	2009	14.29
+744	32	Prov. Jawa Barat	3204	Kab. Bandung	2009	37.71
+749	32	Prov. Jawa Barat	3205	Kab. Garut	2009	26.69
+754	32	Prov. Jawa Barat	3206	Kab. Tasikmalaya	2009	34.02
+759	32	Prov. Jawa Barat	3207	Kab. Ciamis	2009	35.2
+764	32	Prov. Jawa Barat	3208	Kab. Kuningan	2009	82.25
+769	32	Prov. Jawa Barat	3209	Kab. Cirebon	2009	70.18
+774	32	Prov. Jawa Barat	3210	Kab. Majalengka	2009	46.8
+779	32	Prov. Jawa Barat	3211	Kab. Sumedang	2009	58.44
+784	32	Prov. Jawa Barat	3212	Kab. Indramayu	2009	59.67
+789	32	Prov. Jawa Barat	3213	Kab. Subang	2009	48.77
+794	32	Prov. Jawa Barat	3214	Kab. Purwakarta	2009	16.93
+799	32	Prov. Jawa Barat	3215	Kab. Karawang	2009	47.04
+804	32	Prov. Jawa Barat	3216	Kab. Bekasi	2009	42.68
+809	32	Prov. Jawa Barat	3217	Kab. Bandung Barat	2009	24.58
+814	32	Prov. Jawa Barat	3271	Kota Bogor	2009	79.99
+819	32	Prov. Jawa Barat	3272	Kota Sukabumi	2009	37.49
+824	32	Prov. Jawa Barat	3273	Kota Bandung	2009	86.36
+829	32	Prov. Jawa Barat	3274	Kota Cirebon	2009	67.74
+834	32	Prov. Jawa Barat	3275	Kota Bekasi	2009	72.0
+839	32	Prov. Jawa Barat	3276	Kota Depok	2009	74.99
+844	32	Prov. Jawa Barat	3277	Kota Cimahi	2009	47.84
+849	32	Prov. Jawa Barat	3278	Kota Tasikmalaya	2009	73.66
+854	32	Prov. Jawa Barat	3279	Kota Banjar	2009	42.88
+859	33	Prov. Jawa Tengah	3301	Kab. Cilacap	2009	65.52
+864	33	Prov. Jawa Tengah	3302	Kab. Banyumas	2009	77.89
+869	33	Prov. Jawa Tengah	3303	Kab. Purbalingga	2009	52.61
+874	33	Prov. Jawa Tengah	3304	Kab. Banjarnegara	2009	50.72
+879	33	Prov. Jawa Tengah	3305	Kab. Kebumen	2009	62.03
+884	33	Prov. Jawa Tengah	3306	Kab. Purworejo	2009	71.38
+889	33	Prov. Jawa Tengah	3307	Kab. Wonosobo	2009	40.57
+894	33	Prov. Jawa Tengah	3308	Kab. Magelang	2009	73.65
+899	33	Prov. Jawa Tengah	3309	Kab. Boyolali	2009	74.6
+904	33	Prov. Jawa Tengah	3310	Kab. Klaten	2009	100.0
+909	33	Prov. Jawa Tengah	3311	Kab. Sukoharjo	2009	100.0
+914	33	Prov. Jawa Tengah	3312	Kab. Wonogiri	2009	88.56
+919	33	Prov. Jawa Tengah	3313	Kab. Karanganyar	2009	95.17
+924	33	Prov. Jawa Tengah	3314	Kab. Sragen	2009	89.15
+929	33	Prov. Jawa Tengah	3315	Kab. Grobogan	2009	84.73
+934	33	Prov. Jawa Tengah	3316	Kab. Blora	2009	69.31
+939	33	Prov. Jawa Tengah	3317	Kab. Rembang	2009	91.45
+944	33	Prov. Jawa Tengah	3318	Kab. Pati	2009	85.28
+949	33	Prov. Jawa Tengah	3319	Kab. Kudus	2009	88.15
+954	33	Prov. Jawa Tengah	3320	Kab. Jepara	2009	54.89
+959	33	Prov. Jawa Tengah	3321	Kab. Demak	2009	85.47
+964	33	Prov. Jawa Tengah	3322	Kab. Semarang	2009	85.73
+969	33	Prov. Jawa Tengah	3323	Kab. Temanggung	2009	67.7
+974	33	Prov. Jawa Tengah	3324	Kab. Kendal	2009	69.84
+979	33	Prov. Jawa Tengah	3325	Kab. Batang	2009	59.33
+984	33	Prov. Jawa Tengah	3326	Kab. Pekalongan	2009	75.15
+989	33	Prov. Jawa Tengah	3327	Kab. Pemalang	2009	55.63
+994	33	Prov. Jawa Tengah	3328	Kab. Tegal	2009	76.75
+999	33	Prov. Jawa Tengah	3329	Kab. Brebes	2009	53.24
+1004	33	Prov. Jawa Tengah	3371	Kota Magelang	2009	100.0
+1009	33	Prov. Jawa Tengah	3372	Kota Surakarta	2009	100.0
+1014	33	Prov. Jawa Tengah	3373	Kota Salatiga	2009	90.13
+1019	33	Prov. Jawa Tengah	3374	Kota Semarang	2009	94.23
+1024	33	Prov. Jawa Tengah	3375	Kota Pekalongan	2009	76.89
+1029	33	Prov. Jawa Tengah	3376	Kota Tegal	2009	100.0
+1034	34	Prov. D I Yogyakarta	3401	Kab. Kulon Progo	2009	81.7
+1039	34	Prov. D I Yogyakarta	3402	Kab. Bantul	2009	100.0
+1044	34	Prov. D I Yogyakarta	3403	Kab. Gunung Kidul	2009	85.71
+1049	34	Prov. D I Yogyakarta	3404	Kab. Sleman	2009	85.71
+1054	34	Prov. D I Yogyakarta	3471	Kota Yogyakarta	2009	100.0
+1059	35	Prov. Jawa Timur	3501	Kab. Pacitan	2009	76.25
+1064	35	Prov. Jawa Timur	3502	Kab. Ponorogo	2009	69.11
+1069	35	Prov. Jawa Timur	3503	Kab. Trenggalek	2009	86.9
+1074	35	Prov. Jawa Timur	3504	Kab. Tulungagung	2009	93.69
+1079	35	Prov. Jawa Timur	3505	Kab. Blitar	2009	95.34
+1084	35	Prov. Jawa Timur	3506	Kab. Kediri	2009	95.33
+1089	35	Prov. Jawa Timur	3507	Kab. Malang	2009	56.33
+1094	35	Prov. Jawa Timur	3508	Kab. Lumajang	2009	78.69
+1099	35	Prov. Jawa Timur	3509	Kab. Jember	2009	52.29
+1104	35	Prov. Jawa Timur	3510	Kab. Banyuwangi	2009	81.03
+1109	35	Prov. Jawa Timur	3511	Kab. Bondowoso	2009	49.16
+1114	35	Prov. Jawa Timur	3512	Kab. Situbondo	2009	50.54
+1119	35	Prov. Jawa Timur	3513	Kab. Probolinggo	2009	49.59
+1124	35	Prov. Jawa Timur	3514	Kab. Pasuruan	2009	72.9
+1129	35	Prov. Jawa Timur	3515	Kab. Sidoarjo	2009	95.37
+1134	35	Prov. Jawa Timur	3516	Kab. Mojokerto	2009	85.67
+1139	35	Prov. Jawa Timur	3517	Kab. Jombang	2009	97.22
+1144	35	Prov. Jawa Timur	3518	Kab. Nganjuk	2009	84.48
+1149	35	Prov. Jawa Timur	3519	Kab. Madiun	2009	95.23
+1154	35	Prov. Jawa Timur	3520	Kab. Magetan	2009	95.92
+1159	35	Prov. Jawa Timur	3521	Kab. Ngawi	2009	92.93
+1164	35	Prov. Jawa Timur	3522	Kab. Bojonegoro	2009	76.39
+1169	35	Prov. Jawa Timur	3523	Kab. Tuban	2009	82.68
+1174	35	Prov. Jawa Timur	3524	Kab. Lamongan	2009	91.86
+1179	35	Prov. Jawa Timur	3525	Kab. Gresik	2009	96.08
+1184	35	Prov. Jawa Timur	3526	Kab. Bangkalan	2009	37.75
+1189	35	Prov. Jawa Timur	3527	Kab. Sampang	2009	44.34
+1194	35	Prov. Jawa Timur	3528	Kab. Pamekasan	2009	38.71
+1199	35	Prov. Jawa Timur	3529	Kab. Sumenep	2009	52.76
+1204	35	Prov. Jawa Timur	3571	Kota Kediri	2009	100.0
+1209	35	Prov. Jawa Timur	3572	Kota Blitar	2009	94.75
+1214	35	Prov. Jawa Timur	3573	Kota Malang	2009	95.24
+1219	35	Prov. Jawa Timur	3574	Kota Probolinggo	2009	78.57
+1224	35	Prov. Jawa Timur	3575	Kota Pasuruan	2009	94.2
+1229	35	Prov. Jawa Timur	3576	Kota Mojokerto	2009	100.0
+1234	35	Prov. Jawa Timur	3577	Kota Madiun	2009	100.0
+1239	35	Prov. Jawa Timur	3578	Kota Surabaya	2009	100.0
+1244	35	Prov. Jawa Timur	3579	Kota Batu	2009	86.12
+1249	36	Prov. Banten	3601	Kab. Pandeglang	2009	22.42
+1254	36	Prov. Banten	3602	Kab. Lebak	2009	23.85
+1259	36	Prov. Banten	3603	Kab. Tangerang	2009	35.27
+1264	36	Prov. Banten	3604	Kab. Serang	2009	23.27
+1269	36	Prov. Banten	3671	Kota Tangerang	2009	77.77
+1274	36	Prov. Banten	3672	Kota Cilegon	2009	84.13
+1279	36	Prov. Banten	3673	Kota Serang	2009	42.11
+1284	51	Prov. Bali	5101	Kab. Jembrana	2009	95.98
+1289	51	Prov. Bali	5102	Kab. Tabanan	2009	100.0
+1294	51	Prov. Bali	5103	Kab. Badung	2009	100.0
+1299	51	Prov. Bali	5104	Kab. Gianyar	2009	100.0
+1304	51	Prov. Bali	5105	Kab. Klungkung	2009	38.88
+1309	51	Prov. Bali	5106	Kab. Bangli	2009	100.0
+1314	51	Prov. Bali	5107	Kab. Karang Asem	2009	58.94
+1319	51	Prov. Bali	5108	Kab. Buleleng	2009	95.33
+1324	51	Prov. Bali	5171	Kota Denpasar	2009	100.0
+1329	52	Prov. Nusa Tenggara Barat	5201	Kab. Lombok Barat	2009	49.74
+1334	52	Prov. Nusa Tenggara Barat	5202	Kab. Lombok Tengah	2009	44.62
+1339	52	Prov. Nusa Tenggara Barat	5203	Kab. Lombok Timur	2009	61.56
+1344	52	Prov. Nusa Tenggara Barat	5204	Kab. Sumbawa	2009	36.46
+1349	52	Prov. Nusa Tenggara Barat	5205	Kab. Dompu	2009	25.32
+1354	52	Prov. Nusa Tenggara Barat	5206	Kab. Bima	2009	37.98
+1359	52	Prov. Nusa Tenggara Barat	5207	Kab. Sumbawa Barat	2009	39.03
+1364	52	Prov. Nusa Tenggara Barat	5271	Kota Mataram	2009	85.28
+1369	52	Prov. Nusa Tenggara Barat	5272	Kota Bima	2009	54.56
+1374	53	Prov. Nusa Tenggara Timur	5301	Kab. Sumba Barat	2009	41.52
+1379	53	Prov. Nusa Tenggara Timur	5302	Kab. Sumba Timur	2009	31.8
+1384	53	Prov. Nusa Tenggara Timur	5303	Kab. Kupang	2009	12.73
+1389	53	Prov. Nusa Tenggara Timur	5304	Kab. Timor Tengah Selatan	2009	14.29
+1394	53	Prov. Nusa Tenggara Timur	5305	Kab. Timor Tengah Utara	2009	34.88
+1399	53	Prov. Nusa Tenggara Timur	5306	Kab. Belu	2009	43.48
+1404	53	Prov. Nusa Tenggara Timur	5307	Kab. Alor	2009	23.24
+1409	53	Prov. Nusa Tenggara Timur	5308	Kab. Lembata	2009	51.22
+1414	53	Prov. Nusa Tenggara Timur	5309	Kab. Flores Timur	2009	52.47
+1419	53	Prov. Nusa Tenggara Timur	5310	Kab. Sikka	2009	54.87
+1424	53	Prov. Nusa Tenggara Timur	5311	Kab. Ende	2009	36.22
+1429	53	Prov. Nusa Tenggara Timur	5312	Kab. Ngada	2009	68.71
+1434	53	Prov. Nusa Tenggara Timur	5313	Kab. Manggarai	2009	12.24
+1439	53	Prov. Nusa Tenggara Timur	5314	Kab. Rote Ndao	2009	12.92
+1444	53	Prov. Nusa Tenggara Timur	5315	Kab. Manggarai Barat	2009	28.11
+1449	53	Prov. Nusa Tenggara Timur	5316	Kab. Sumba Tengah	2009	24.8
+1454	53	Prov. Nusa Tenggara Timur	5317	Kab. Sumba Barat Daya	2009	9.04
+1459	53	Prov. Nusa Tenggara Timur	5318	Kab. Nagekeo	2009	66.06
+1464	53	Prov. Nusa Tenggara Timur	5319	Kab. Manggarai Timur	2009	17.0
+1469	53	Prov. Nusa Tenggara Timur	5371	Kota Kupang	2009	43.04
+1474	61	Prov. Kalimantan Barat	6101	Kab. Sambas	2009	50.82
+1479	61	Prov. Kalimantan Barat	6102	Kab. Bengkayang	2009	33.39
+1484	61	Prov. Kalimantan Barat	6103	Kab. Landak	2009	37.11
+1489	61	Prov. Kalimantan Barat	6104	Kab. Pontianak	2009	43.92
+1494	61	Prov. Kalimantan Barat	6105	Kab. Sanggau	2009	0.0
+1499	61	Prov. Kalimantan Barat	6106	Kab. Ketapang	2009	13.7
+1504	61	Prov. Kalimantan Barat	6107	Kab. Sintang	2009	29.99
+1509	61	Prov. Kalimantan Barat	6108	Kab. Kapuas Hulu	2009	33.3
+1514	61	Prov. Kalimantan Barat	6109	Kab. Sekadau	2009	12.47
+1519	61	Prov. Kalimantan Barat	6110	Kab. Melawi	2009	29.55
+1524	61	Prov. Kalimantan Barat	6111	Kab. Kayong Utara	2009	6.62
+1529	61	Prov. Kalimantan Barat	6112	Kab. Kubu Raya	2009	25.93
+1534	61	Prov. Kalimantan Barat	6171	Kota Pontianak	2009	63.6
+1539	61	Prov. Kalimantan Barat	6172	Kota Singkawang	2009	64.2
+1544	62	Prov. Kalimantan Tengah	6201	Kab. Kotawaringin Barat	2009	44.65
+1549	62	Prov. Kalimantan Tengah	6202	Kab. Kotawaringin Timur	2009	44.31
+1554	62	Prov. Kalimantan Tengah	6203	Kab. Kapuas	2009	60.01
+1559	62	Prov. Kalimantan Tengah	6204	Kab. Barito Selatan	2009	45.19
+1564	62	Prov. Kalimantan Tengah	6205	Kab. Barito Utara	2009	41.99
+1569	62	Prov. Kalimantan Tengah	6206	Kab. Sukamara	2009	37.5
+1574	62	Prov. Kalimantan Tengah	6207	Kab. Lamandau	2009	24.96
+1579	62	Prov. Kalimantan Tengah	6208	Kab. Seruyan	2009	18.71
+1584	62	Prov. Kalimantan Tengah	6209	Kab. Katingan	2009	37.79
+1589	62	Prov. Kalimantan Tengah	6210	Kab. Pulang Pisau	2009	27.7
+1594	62	Prov. Kalimantan Tengah	6211	Kab. Gunung Mas	2009	20.43
+1599	62	Prov. Kalimantan Tengah	6212	Kab. Barito Timur	2009	59.02
+1604	62	Prov. Kalimantan Tengah	6213	Kab. Murung Raya	2009	25.84
+1609	62	Prov. Kalimantan Tengah	6271	Kota Palangka Raya	2009	79.82
+1614	63	Prov. Kalimantan Selatan	6301	Kab. Tanah Laut	2009	33.31
+1619	63	Prov. Kalimantan Selatan	6302	Kota Baru	2009	0.0
+1624	63	Prov. Kalimantan Selatan	6303	Kab. Banjar	2009	36.31
+1629	63	Prov. Kalimantan Selatan	6304	Kab. Barito Kuala	2009	37.54
+1634	63	Prov. Kalimantan Selatan	6305	Kab. Tapin	2009	33.33
+1639	63	Prov. Kalimantan Selatan	6306	Kab. Hulu Sungai Selatan	2009	54.19
+1644	63	Prov. Kalimantan Selatan	6307	Kab. Hulu Sungai Tengah	2009	66.59
+1649	63	Prov. Kalimantan Selatan	6308	Kab. Hulu Sungai Utara	2009	22.31
+1654	63	Prov. Kalimantan Selatan	6309	Kab. Tabalong	2009	51.95
+1659	63	Prov. Kalimantan Selatan	6310	Kab. Tanah Bumbu	2009	15.68
+1664	63	Prov. Kalimantan Selatan	6311	Kab. Balangan	2009	68.29
+1669	63	Prov. Kalimantan Selatan	6371	Kota Banjarmasin	2009	94.23
+1674	63	Prov. Kalimantan Selatan	6372	Kota Banjar Baru	2009	92.19
+1679	64	Prov. Kalimantan Timur	6401	Kab. Pasir	2009	27.93
+1684	64	Prov. Kalimantan Timur	6402	Kab. Kutai Barat	2009	72.5
+1689	64	Prov. Kalimantan Timur	6403	Kab. Kutai Kartanegara	2009	53.03
+1694	64	Prov. Kalimantan Timur	6404	Kab. Kutai Timur	2009	35.16
+1699	64	Prov. Kalimantan Timur	6405	Kab. Berau	2009	58.94
+1704	64	Prov. Kalimantan Timur	6406	Kab. Malinau	2009	62.34
+1709	64	Prov. Kalimantan Timur	6407	Kab. Bulungan	2009	47.4
+1714	64	Prov. Kalimantan Timur	6408	Kab. Nunukan	2009	29.19
+1719	64	Prov. Kalimantan Timur	6409	Kab. Penajam Paser Utara	2009	63.8
+1724	64	Prov. Kalimantan Timur	6410	Kab. Tana Tidung	2009	52.76
+1729	64	Prov. Kalimantan Timur	6471	Kota Balikpapan	2009	57.07
+1734	64	Prov. Kalimantan Timur	6472	Kota Samarinda	2009	92.15
+1739	64	Prov. Kalimantan Timur	6473	Kota Tarakan	2009	82.41
+1744	64	Prov. Kalimantan Timur	6474	Kota Bontang	2009	96.36
+1749	71	Prov. Sulawesi Utara	7101	Kab. Bolaang Mongondow	2009	40.61
+1754	71	Prov. Sulawesi Utara	7102	Kab. Minahasa	2009	86.79
+1759	71	Prov. Sulawesi Utara	7103	Kab. Kepulauan Sangihe	2009	64.53
+1764	71	Prov. Sulawesi Utara	7104	Kab. Kepulauan Talaud	2009	40.78
+1769	71	Prov. Sulawesi Utara	7105	Kab. Minahasa Selatan	2009	40.36
+1774	71	Prov. Sulawesi Utara	7106	Kab. Minahasa Utara	2009	28.44
+1779	71	Prov. Sulawesi Utara	7107	Kab. Bolaang Mongondow Utara	2009	32.37
+1784	71	Prov. Sulawesi Utara	7108	Kab. Siau Tagulandang Biaro	2009	30.77
+1789	71	Prov. Sulawesi Utara	7109	Kab. Minahasa Tenggara	2009	74.02
+1794	71	Prov. Sulawesi Utara	7171	Kota Manado	2009	68.18
+1799	71	Prov. Sulawesi Utara	7172	Kota Bitung	2009	82.03
+1804	71	Prov. Sulawesi Utara	7173	Kota Tomohon	2009	97.55
+1809	71	Prov. Sulawesi Utara	7174	Kota Kotamobagu	2009	26.89
+1814	72	Prov. Sulawesi Tengah	7201	Kab. Banggai Kepulauan	2009	17.08
+1819	72	Prov. Sulawesi Tengah	7202	Kab. Banggai	2009	35.61
+1824	72	Prov. Sulawesi Tengah	7203	Kab. Morowali	2009	28.04
+1829	72	Prov. Sulawesi Tengah	7204	Kab. Poso	2009	69.72
+1834	72	Prov. Sulawesi Tengah	7205	Kab. Donggala	2009	31.91
+1839	72	Prov. Sulawesi Tengah	7206	Kab. Tolitoli	2009	21.93
+1844	72	Prov. Sulawesi Tengah	7207	Kab. Buol	2009	20.8
+1849	72	Prov. Sulawesi Tengah	7208	Kab. Parigi Moutong	2009	18.32
+1854	72	Prov. Sulawesi Tengah	7209	Kab. Tojo Unauna	2009	32.58
+1859	72	Prov. Sulawesi Tengah	7271	Kota Palu	2009	82.92
+1864	73	Prov. Sulawesi Selatan	7301	Kab. Kepulauan Selayar	2009	34.49
+1869	73	Prov. Sulawesi Selatan	7302	Kab. Bulukumba	2009	21.61
+1874	73	Prov. Sulawesi Selatan	7303	Kab. Bantaeng	2009	16.84
+1879	73	Prov. Sulawesi Selatan	7304	Kab. Jeneponto	2009	24.16
+1884	73	Prov. Sulawesi Selatan	7305	Kab. Takalar	2009	55.97
+1889	73	Prov. Sulawesi Selatan	7306	Kab. Gowa	2009	35.91
+1894	73	Prov. Sulawesi Selatan	7307	Kab. Sinjai	2009	27.1
+1899	73	Prov. Sulawesi Selatan	7308	Kab. Maros	2009	60.78
+1904	73	Prov. Sulawesi Selatan	7309	Kab. Pangkajene Dan Kepulauan	2009	55.17
+1909	73	Prov. Sulawesi Selatan	7310	Kab. Barru	2009	32.48
+1914	73	Prov. Sulawesi Selatan	7311	Kab. Bone	2009	11.23
+1919	73	Prov. Sulawesi Selatan	7312	Kab. Soppeng	2009	56.8
+1924	73	Prov. Sulawesi Selatan	7313	Kab. Wajo	2009	25.29
+1929	73	Prov. Sulawesi Selatan	7314	Kab. Sidenreng Rappang	2009	44.26
+1934	73	Prov. Sulawesi Selatan	7315	Kab. Pinrang	2009	41.39
+1939	73	Prov. Sulawesi Selatan	7316	Kab. Enrekang	2009	26.97
+1944	73	Prov. Sulawesi Selatan	7317	Kab. Luwu	2009	21.47
+1949	73	Prov. Sulawesi Selatan	7318	Kab. Tana Toraja	2009	28.79
+1954	73	Prov. Sulawesi Selatan	7319		2009	0.0
+1959	73	Prov. Sulawesi Selatan	7320		2009	0.0
+1964	73	Prov. Sulawesi Selatan	7321		2009	0.0
+1969	73	Prov. Sulawesi Selatan	7322	Kab. Luwu Utara	2009	23.45
+1974	73	Prov. Sulawesi Selatan	7323		2009	0.0
+1979	73	Prov. Sulawesi Selatan	7324		2009	0.0
+1984	73	Prov. Sulawesi Selatan	7325	Kab. Luwu Timur	2009	53.52
+1989	73	Prov. Sulawesi Selatan	7371	Kota Makassar	2009	92.02
+1994	73	Prov. Sulawesi Selatan	7372	Kota Parepare	2009	70.55
+1999	73	Prov. Sulawesi Selatan	7373	Kota Palopo	2009	55.56
+2004	74	Prov. Sulawesi Tenggara	7401	Kab. Buton	2009	16.26
+2009	74	Prov. Sulawesi Tenggara	7402	Kab. Muna	2009	20.02
+2014	74	Prov. Sulawesi Tenggara	7403	Kab. Konawe	2009	31.19
+2019	74	Prov. Sulawesi Tenggara	7404	Kab. Kolaka	2009	25.31
+2024	74	Prov. Sulawesi Tenggara	7405	Kab. Konawe Selatan	2009	22.97
+2029	74	Prov. Sulawesi Tenggara	7406	Kab. Bombana	2009	7.95
+2034	74	Prov. Sulawesi Tenggara	7407	Kab. Wakatobi	2009	62.5
+2039	74	Prov. Sulawesi Tenggara	7408	Kab. Kolaka Utara	2009	13.8
+2044	74	Prov. Sulawesi Tenggara	7409	Kab. Buton Utara	2009	17.43
+2049	74	Prov. Sulawesi Tenggara	7410	Kab. Konawe Utara	2009	26.17
+2054	74	Prov. Sulawesi Tenggara	7471	Kota Kendari	2009	36.87
+2059	74	Prov. Sulawesi Tenggara	7472	Kota Baubau	2009	34.71
+2064	75	Prov. Gorontalo	7501	Kab. Boalemo	2009	14.48
+2069	75	Prov. Gorontalo	7502	Kab. Gorontalo	2009	16.12
+2074	75	Prov. Gorontalo	7503	Kab. Pohuwato	2009	16.88
+2079	75	Prov. Gorontalo	7504	Kab. Bone Bolango	2009	35.41
+2084	75	Prov. Gorontalo	7505	Kab. Gorontalo Utara	2009	4.07
+2089	75	Prov. Gorontalo	7571	Kota Gorontalo	2009	58.76
+2094	76	Prov. Sulawesi Barat	7601	Kab. Majene	2009	7.51
+2099	76	Prov. Sulawesi Barat	7602	Kab. Polewali Mandar	2009	5.5
+2104	76	Prov. Sulawesi Barat	7603	Kab. Mamasa	2009	30.11
+2109	76	Prov. Sulawesi Barat	7604	Kab. Mamuju	2009	4.65
+2114	76	Prov. Sulawesi Barat	7605	Kab. Mamuju Utara	2009	7.64
+2119	76	Prov. Sulawesi Barat	7606		2009	0.0
+2124	76	Prov. Sulawesi Barat	7607		2009	0.0
+2129	76	Prov. Sulawesi Barat	7671		2009	0.0
+2134	81	Prov. Maluku	8101	Kab. Maluku Tenggara Barat	2009	22.19
+2139	81	Prov. Maluku	8102	Kab. Maluku Tenggara	2009	29.21
+2144	81	Prov. Maluku	8103	Kab. Maluku Tengah	2009	38.0
+2149	81	Prov. Maluku	8104	Kab. Buru	2009	7.68
+2154	81	Prov. Maluku	8105	Kab. Kepulauan Aru	2009	13.97
+2159	81	Prov. Maluku	8106	Kab. Seram Bagian Barat	2009	6.11
+2164	81	Prov. Maluku	8107	Kab. Seram Bagian Timur	2009	10.36
+2169	81	Prov. Maluku	8171	Kota Ambon	2009	28.87
+2174	81	Prov. Maluku	8172	Kota Tual	2009	15.54
+2179	82	Prov. Maluku Utara	8201	Kab. Halmahera Barat	2009	39.56
+2184	82	Prov. Maluku Utara	8202	Kab. Halmahera Tengah	2009	5.5
+2189	82	Prov. Maluku Utara	8203	Kab. Kepulauan Sula	2009	0.0
+2194	82	Prov. Maluku Utara	8204	Kab. Halmahera Selatan	2009	31.2
+2199	82	Prov. Maluku Utara	8205	Kab. Halmahera Utara	2009	44.65
+2204	82	Prov. Maluku Utara	8206	Kab. Halmahera Timur	2009	17.47
+2209	82	Prov. Maluku Utara	8271	Kota Ternate	2009	71.58
+2214	82	Prov. Maluku Utara	8272	Kota Tidore Kepulauan	2009	33.14
+2219	91	Prov. Papua Barat	9101	Kab. Fakfak	2009	50.29
+2224	91	Prov. Papua Barat	9102	Kab. Kaimana	2009	48.0
+2229	91	Prov. Papua Barat	9103	Kab. Teluk Wondama	2009	51.28
+2234	91	Prov. Papua Barat	9104	Kab. Teluk Bintuni	2009	29.08
+2239	91	Prov. Papua Barat	9105	Kab. Manokwari	2009	45.59
+2244	91	Prov. Papua Barat	9106	Kab. Sorong Selatan	2009	38.79
+2249	91	Prov. Papua Barat	9107	Kab. Sorong	2009	15.35
+2254	91	Prov. Papua Barat	9108	Kab. Raja Ampat	2009	0.0
+2259	91	Prov. Papua Barat	9171	Kota Sorong	2009	37.66
+2264	94	Prov. Papua	9401	Kab. Merauke	2009	26.65
+2269	94	Prov. Papua	9402	Kab. Jayawijaya	2009	6.01
+2274	94	Prov. Papua	9403	Kab. Jayapura	2009	37.28
+2279	94	Prov. Papua	9404	Kab. Nabire	2009	65.18
+2284	94	Prov. Papua	9405		2009	0.0
+2289	94	Prov. Papua	9408	Kab. Yapen Waropen	2009	29.21
+2294	94	Prov. Papua	9409	Kab. Biak Numfor	2009	17.78
+2299	94	Prov. Papua	9410	Kab. Paniai	2009	9.26
+2304	94	Prov. Papua	9411	Kab. Puncak Jaya	2009	6.65
+2309	94	Prov. Papua	9412	Kab. Mimika	2009	53.1
+2314	94	Prov. Papua	9413	Kab. Boven Digoel	2009	25.95
+2319	94	Prov. Papua	9414	Kab. Mappi	2009	11.1
+2324	94	Prov. Papua	9415	Kab. Asmat	2009	19.3
+2329	94	Prov. Papua	9416	Kab. Yahukimo	2009	0.0
+2334	94	Prov. Papua	9417	Kab. Pegunungan Bintang	2009	18.42
+2339	94	Prov. Papua	9418	Kab. Tolikara	2009	6.52
+2344	94	Prov. Papua	9419	Kab. Sarmi	2009	33.33
+2349	94	Prov. Papua	9420	Kab. Keerom	2009	50.03
+2354	94	Prov. Papua	9421		2009	0.0
+2359	94	Prov. Papua	9426	Kab. Waropen	2009	22.69
+2364	94	Prov. Papua	9427	Kab. Supiori	2009	34.91
+2369	94	Prov. Papua	9428	Kab. Mamberamo Raya	2009	0.0
+2374	94	Prov. Papua	9429	Kab. Nduga	2009	2.48
+2379	94	Prov. Papua	9430	Kab. Lanny Jaya	2009	0.0
+2384	94	Prov. Papua	9431	Kab. Mamberamo Tengah	2009	0.0
+2389	94	Prov. Papua	9432	Kab. Yalimo	2009	14.7
+2394	94	Prov. Papua	9433	Kab. Puncak	2009	18.68
+2399	94	Prov. Papua	9434	Kab. Dogiyai	2009	0.0
+2404	94	Prov. Papua	9471	Kota Jayapura	2009	95.89
+2409	94	Prov. Papua	9472		2009	0.0
